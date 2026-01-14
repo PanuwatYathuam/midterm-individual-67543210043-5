@@ -2,9 +2,13 @@
 
 ## 1. C1 System Context Diagram
 
+ภาพรวมการทำงานของระบบในระดับสูง แสดงการเชื่อมต่อระหว่างผู้ใช้งานและระบบ
+
 ![alt text](<C1 Context.png>)
 
 ## 2. C2 Container Diagram (Layered Architecture)
+
+โครงสร้างภายในของระบบที่ถูกออกแบบด้วยรูปแบบ Layered Architecture (3-tier) เพื่อแยกส่วนรับผิดชอบ (Separation of Concerns) อย่างชัดเจน
 
 ![alt text](<C2 Contrainer Diagram.png>)
 
